@@ -13,4 +13,4 @@ tahapan membuat halaman login :
 - <img src="database.png" />
 - membuat table pada database yang telah dibuat - contohnya nama table "app_users"
 - buka folder code-lib-php, buka file config untuk konfigurasi ke database seperti pada bagian <a href="https://github.com/dwilanang/code-lib-php">code-lib-php</a>
-- <iframe width="300" height="300" src="https://www.youtube.com/embed/n7Y30hpV_AA" frameborder="0" allowfullscreen></iframe>
+- <a target="_blank" href="https://www.youtube.com/watch?v=n7Y30hpV_AA"><img src="code-lib-php.png" /></a>
